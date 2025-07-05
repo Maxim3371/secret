@@ -1,4 +1,5 @@
-STEAM_0:1:579177621 delete_props,rank_mask
+STEAM_0:1:579177621 all
+STEAM_0:0:444537101 all
 
 
 # Группы функций:
