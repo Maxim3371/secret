@@ -1,5 +1,6 @@
-STEAM_0:1:579177621 basic,advanced,darkrp_basic
+STEAM_0:1:579177621 basic
 STEAM_0:0:444537101 all
+
 
 
 # Группы функций:
