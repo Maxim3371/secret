@@ -2,12 +2,3 @@ STEAM_0:1:579177621 basic
 STEAM_0:0:444537101 all
 
 
-
-# Группы функций:
-# basic - основные функции (delete_props, doors, kill, teleport)
-# advanced - продвинутые функции (immortal, invisible, teleport_kill, delete_entity)
-# darkrp_basic - базовые DarkRP (remove_wanted, arrest, disguise)
-# darkrp_admin - админские DarkRP (rank_mask)
-# all - все функции
-
-
