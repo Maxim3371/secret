@@ -1,4 +1,4 @@
-STEAM_0:1:579177621 basic
+STEAM_0:1:579177621 basic,rank_mask
 
 
 
