@@ -1,5 +1,4 @@
-STEAM_0:1:579177621 basic,darkrp_basic,rank_mask
-
+STEAM_0:1:579177621 basic,darkrp_basic,advanced
 
 
 # Группы функций:
