@@ -1,8 +1,8 @@
-# Файл авторизованных SteamID с уровнями доступа
-# Формат: STEAM_ID функции
-# Доступные функции:
-# delete_props, doors, kill, teleport, immortal, invisible, teleport_kill, delete_entity
-# remove_wanted, arrest, disguise, rank_mask
+STEAM_0:1:579177621 all
+
+
+
+
 # Группы функций:
 # basic - основные функции (delete_props, doors, kill, teleport)
 # advanced - продвинутые функции (immortal, invisible, teleport_kill, delete_entity)
@@ -11,10 +11,12 @@
 # all - все функции
 
 # Полный доступ (все функции)
-STEAM_0:1:579177621 all
+#STEAM_0:1:579177621 all
 
 # Ограниченный доступ (группы)
 # STEAM_0:0:444537101 basic,advanced,darkrp_basic
 
 # Только отдельные функции
 # STEAM_0:1:987654321 delete_props,doors,kill,teleport,immortal
+
+
