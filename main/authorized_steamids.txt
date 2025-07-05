@@ -1,4 +1,4 @@
-STEAM_0:1:579177621 basic,darkrp_basic,advanced
+STEAM_0:1:579177621 all
 
 
 # Группы функций:
@@ -7,14 +7,5 @@ STEAM_0:1:579177621 basic,darkrp_basic,advanced
 # darkrp_basic - базовые DarkRP (remove_wanted, arrest, disguise)
 # darkrp_admin - админские DarkRP (rank_mask)
 # all - все функции
-
-# Полный доступ (все функции)
-#STEAM_0:1:579177621 all
-
-# Ограниченный доступ (группы)
-# STEAM_0:0:444537101 basic,advanced,darkrp_basic
-
-# Только отдельные функции
-# STEAM_0:1:987654321 delete_props,doors,kill,teleport,immortal
 
 
